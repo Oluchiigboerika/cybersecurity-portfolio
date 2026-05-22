@@ -23,5 +23,6 @@ I am interested in Cybersecurity, IT Security, Vulnerability Management, Inciden
 - Network Traffic Analysis
 
 ## Contact
-LinkedIn: add your LinkedIn URL here
-GitHub: add your GitHub URL here
+www.linkedin.com/in/oluchi-e-igboerika
+[GitHub: add your GitHub URL here
+](https://github.com/Oluchiigboerika/cybersecurity-portfolio)
